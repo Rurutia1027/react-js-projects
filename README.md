@@ -1,7 +1,6 @@
-# React Projects in Javascript 
+# React Projects in Javascript
 
 Welcome to my collection of React projects! These projects are built using various React features and libraries to demonstrate different concepts and best practices in React development. Each project is linked to a live demo, and you can explore them to get hands-on experience with React.
-
 
 ## Projects Overview
 
@@ -9,11 +8,11 @@ Below is a table of the projects in this repository, along with their live demo 
 
 | Project Name           | Live Demo                                                   | Deployment Platform | Status      |
 | ---------------------- | ----------------------------------------------------------- | ------------------- | ----------- |
-| 01 - Birthday Reminder | [Live Demo](https://birthday-reminder-teal-chi.vercel.app/) | Vercel              | ✅ Done      |
-| 02 - Tours             | [Live Demo](https://tours-kohl.vercel.app/)                 | Vercel              | ✅ Done      |
-| 03 - Reviews           | [Live Demo](https://reviews-alpha-five.vercel.app/)         | Vercel              | ✅ Done      |
-| 04 - Accordion         | [Live Demo](https://accordion-nine-green.vercel.app/)       | Vercel              | ✅ Done      |
-| 05 - Menu              | [Live Demo](http://your-cloudfront-url)                     | Vercel              | Not Started |
+| 01 - Birthday Reminder | [Live Demo](https://birthday-reminder-teal-chi.vercel.app/) | Vercel              | ✅ Done     |
+| 02 - Tours             | [Live Demo](https://tours-kohl.vercel.app/)                 | Vercel              | ✅ Done     |
+| 03 - Reviews           | [Live Demo](https://reviews-alpha-five.vercel.app/)         | Vercel              | ✅ Done     |
+| 04 - Accordion         | [Live Demo](https://accordion-nine-green.vercel.app/)       | Vercel              | ✅ Done     |
+| 05 - Menu              | [Live Demo](https://menu-mauve-seven.vercel.app/)           | Vercel              | ✅ Done     |
 | 06 - Tabs              | [Live Demo](http://your-cloudfront-url)                     | Vercel              | Not Started |
 | 07 - Slider            | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
 | 08 - Lorem Ipsum       | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
@@ -32,7 +31,6 @@ Below is a table of the projects in this repository, along with their live demo 
 | 21 - Movie DB          | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
 | 22 - Hacker News       | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
 | 23 - Quiz              | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
-
 
 ---
 
@@ -56,7 +54,6 @@ These projects cover a wide range of React topics and features, including:
 - **Advanced Features** – Complex integrations like state persistence, animations, etc.
 - **Deployment Platforms**: **AWS S3 + CloudFront**, Netlify, Vercel
 
-
 ---
 
 ## Getting Started
@@ -64,32 +61,37 @@ These projects cover a wide range of React topics and features, including:
 To get started with any of the projects in this repository, follow these steps:
 
 ### 1. Clone the repository
-```shell 
+
+```shell
 git clone git@github.com:Rurutia1027/react-js-projects.git
 ```
 
 ### 2. Navigate to the project folder
+
 ```shell
-cd react-js-projects 
-# or any project you prefer 
+cd react-js-projects
+# or any project you prefer
 cd 01-birthday-reminder
 ```
 
 ### 3. Install the dependencies
-```shell 
-npm install 
+
+```shell
+npm install
 ```
 
 ### 4. Start the development server
-```shell 
-npm start 
+
+```shell
+npm start
 ```
 
-- After deploying successfully, go `http://localhost:3000` to check the web page. 
+- After deploying successfully, go `http://localhost:3000` to check the web page.
 
 ---
 
-## Reference 
+## Reference
+
 - [Youtube](https://www.youtube.com/watch?v=iZhV0bILFb0)
 - [Github Repo](https://github.com/john-smilga/react-projects)
 
