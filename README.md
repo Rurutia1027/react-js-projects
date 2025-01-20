@@ -70,6 +70,12 @@ To get started with any of the projects in this repository, follow these steps:
 
 ---
 
+## Reference 
+- [Youtube](https://www.youtube.com/watch?v=iZhV0bILFb0)
+- [Github Repo](https://github.com/john-smilga/react-projects)
+
+---
+
 ## Contributing
 
 Feel free to fork this repository, make changes, and submit pull requests if you’d like to contribute to the projects!
