@@ -6,6 +6,7 @@ Welcome to my collection of React projects! These projects are built using vario
 ## Projects Overview
 
 Below is a table of the projects in this repository, along with their live demo links, deployment platforms, and the React libraries used.
+
 | Project Name           | Live Demo                                                   | Deployment Platform | Status      |
 | ---------------------- | ----------------------------------------------------------- | ------------------- | ----------- |
 | 01 - Birthday Reminder | [Live Demo](https://birthday-reminder-teal-chi.vercel.app/) | Vercel              | ✅ Done      |
@@ -31,6 +32,8 @@ Below is a table of the projects in this repository, along with their live demo 
 | 21 - Movie DB          | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
 | 22 - Hacker News       | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
 | 23 - Quiz              | [Live Demo](http://your-cloudfront-url)                     | AWS S3 + CloudFront | Not Started |
+
+
 ---
 
 ## Features and Core Concepts
@@ -61,12 +64,28 @@ These projects cover a wide range of React topics and features, including:
 To get started with any of the projects in this repository, follow these steps:
 
 ### 1. Clone the repository
+```shell 
+git clone git@github.com:Rurutia1027/react-js-projects.git
+```
 
 ### 2. Navigate to the project folder
+```shell
+cd react-js-projects 
+# or any project you prefer 
+cd 01-birthday-reminder
+```
 
 ### 3. Install the dependencies
+```shell 
+npm install 
+```
 
 ### 4. Start the development server
+```shell 
+npm start 
+```
+
+- After deploying successfully, go `http://localhost:3000` to check the web page. 
 
 ---
 
