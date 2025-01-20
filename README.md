@@ -14,8 +14,8 @@ Below is a table of the projects in this repository, along with their live demo 
 | 04 - Accordion         | [Live Demo](https://accordion-nine-green.vercel.app/)       | [Source Code](./04-accordion/)         | Vercel              | ✅ Done      |
 | 05 - Menu              | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./05-menu/)              | Vercel              | ✅ Done      |
 | 06 - Tabs              | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./06-tabs/)              | Vercel              | Not Deployed |
-| 07 - Slider            | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started  |
-| 08 - Lorem Ipsum       | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started  |
+| 07 - Slider            | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./07-slider/)            | Vercel              | Not Deployed |
+| 08 - Lorem Ipsum       | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./08-lorem-ipsum/)       | Vercel              | Not Deployed |
 | 09 - Color Generator   | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started  |
 | 10 - Grocery Bud       | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started  |
 | 11 - Navbar            | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started  |
