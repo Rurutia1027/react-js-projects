@@ -17,7 +17,7 @@ Below is a table of the projects in this repository, along with their live demo 
 | 07 - Slider            | [Live Demo](https://slide-cln28dyue-rurutia.vercel.app/)    | [Source Code](./07-slider/)            | Vercel              | ✅ Done     |
 | 08 - Lorem Ipsum       | [Live Demo](https://lorem-ipsum-iota.vercel.app/)           | [Source Code](./08-lorem-ipsum/)       | Vercel              | ✅ Done     |
 | 09 - Color Generator   | [Live Demo](https://color-generator-delta-one.vercel.app/)  | [Source Code](./09-color-generator/)   | Vercel              | ✅ Done     |
-| 10 - Grocery Bud       | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
+| 10 - Grocery Bud       | [Live Demo](https://grocery-bud-omega-inky.vercel.app/)     | [Source Code](./10-grocery-bud/)       | Vercel              | ✅ Done     |
 | 11 - Navbar            | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 12 - Sidebar & Modal   | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 13 - Stripe Submenus   | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
