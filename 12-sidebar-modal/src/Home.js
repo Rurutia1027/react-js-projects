@@ -4,7 +4,6 @@ import { AppContext, useGlobalContext } from './context'
 
 const Home = () => {
   const { openSidebar, openModal } = useGlobalContext()
-  console.log(openSidebar)
 
   return (
     <main>
