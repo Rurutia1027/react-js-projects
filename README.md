@@ -25,7 +25,7 @@ Below is a table of the projects in this repository, along with their live demo 
 | 15 - Cocktails         | [Live Demo](https://cocktails-olive-sigma.vercel.app/)      | [Source Code](./15-cocktails/)         | Vercel              | ✅ Done     |
 | 16 - Markdown Preview  | [Live Demo](https://markdown-preview-eta.vercel.app/)       | [Source Code](./16-markdown-preview/)  | Vercel              | ✅ Done     |
 | 17 - Random Person     | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./17-random-person/)     | Vercel              | ✅ Done     |
-| 18 - Pagination        | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./18-pagination/)        | Vercel              | ✅ Done     |
+| 18 - Pagination        | [Live Demo](https://pagination-eta-five.vercel.app/)        | [Source Code](./18-pagination/)        | Vercel              | ✅ Done     |
 | 19 - Stock Photos      | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 20 - Dark Mode         | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 21 - Movie DB          | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
