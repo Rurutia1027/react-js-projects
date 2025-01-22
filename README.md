@@ -21,8 +21,8 @@ Below is a table of the projects in this repository, along with their live demo 
 | 11 - Navbar            | [Live Demo](https://navbar-sable-kappa.vercel.app/)         | [Source Code](./11-navbar/)            | Vercel              | ✅ Done     |
 | 12 - Sidebar & Modal   | [Live Demo](https://sidebar-rurutia.vercel.app/)            | [Source Code](./12-sidebar-modal/)     | Vercel              | ✅ Done     |
 | 13 - Stripe Submenus   | [Live Demo](https://stripe-chi.vercel.app/)                 | [Source Code](./13-stripe-submenus/)   | Vercel              | ✅ Done     |
-| 14 - Cart              | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./14-cart/)              | Vercel              | ✅ Done     |
-| 15 - Cocktails         | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | Vercel              | ✅ Done     |
+| 14 - Cart              | [Live Demo](https://cart-three-lovat.vercel.app/)           | [Source Code](./14-cart/)              | Vercel              | ✅ Done     |
+| 15 - Cocktails         | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./15-cocktails/)         | Vercel              | ✅ Done     |
 | 16 - Markdown Preview  | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 17 - Random Person     | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 18 - Pagination        | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
