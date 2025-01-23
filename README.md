@@ -30,7 +30,7 @@ Below is a table of the projects in this repository, along with their live demo 
 | 20 - Dark Mode         | [Live Demo](https://dark-mode-xi-black.vercel.app/)         | [Source Code](./20-dark-mode/)         | Vercel              | ✅ Done |
 | 21 - Movie DB          | [Live Demo](https://movie-db-rurutia.vercel.app/)           | [Source Code](./21-movie-db/)          | Vercel              | ✅ Done |
 | 22 - Hacker News       | [Live Demo](https://hacker-news-drab-three.vercel.app/)     | [Source Code](./22-hacker-news/)       | Vercel              | ✅ Done |
-| 23 - Quiz              | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./23-quiz/)              | Vercel              | ✅ Done |
+| 23 - Quiz              | [Live Demo](https://quiz-two-rosy.vercel.app/)                     | [Source Code](./23-quiz/)              | Vercel              | ✅ Done |
 
 ---
 
