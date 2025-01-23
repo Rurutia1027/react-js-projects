@@ -27,7 +27,7 @@ Below is a table of the projects in this repository, along with their live demo 
 | 17 - Random Person     | [Live Demo](http://your-cloudfront-url)                     | [Source Code](./17-random-person/)     | Vercel              | ✅ Done     |
 | 18 - Pagination        | [Live Demo](https://pagination-eta-five.vercel.app/)        | [Source Code](./18-pagination/)        | Vercel              | ✅ Done     |
 | 19 - Stock Photos      | [Live Demo](https://stock-photo.vercel.app/)                | [Source Code](./19-stock-photos/)      | Vercel              | ✅ Done     |
-| 20 - Dark Mode         | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
+| 20 - Dark Mode         | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | Vercel              | ✅ Done     |
 | 21 - Movie DB          | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 22 - Hacker News       | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
 | 23 - Quiz              | [Live Demo](http://your-cloudfront-url)                     | [Source Code](http://your-source-url)  | AWS S3 + CloudFront | Not Started |
